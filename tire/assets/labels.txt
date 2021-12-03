@@ -1,0 +1,3 @@
+Your Tire is : Flat
+full
+no_tire
